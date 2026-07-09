@@ -30,5 +30,3 @@ This project was implemented using OOP design principles, managing state through
 * 🐙 [GitHub Profile](https://github.com/NA0MI7)
 * 💼 [LinkedIn Profile](https://www.linkedin.com/in/mr-abhijeet-ranjan-prasad-87b975348/)
 
-## License
-This project is open-source and available under the MIT License.
