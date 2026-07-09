@@ -1,4 +1,4 @@
-# 👽 Zelda-Game
+# Zelda-Game
 
 A text-based console game made to learn and implement fundamental Object-Oriented Programming (OOP) concepts in C++. 
 
